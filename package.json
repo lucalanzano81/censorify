@@ -7,5 +7,12 @@
 	"dependencies": {}, 
 	"engines": {
 		"node": "*"
-	}
+	}, 
+	"repository": {
+		"type": "git", 
+		"url": "https://github.com/lucalanzano81/censorify"
+	}, 
+	"keywords": [
+		"censor", "words"
+	]
 }
